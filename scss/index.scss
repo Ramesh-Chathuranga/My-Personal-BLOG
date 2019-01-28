@@ -105,6 +105,9 @@ p{
         padding: 0 8px;
         border-radius: 3px;
         top:5px;
+        padding-bottom: 6px;
+        -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 76%, 17% 78%, 0 100%, 0 83%, 0% 75%);
+        clip-path: polygon(0% 0%, 100% 0%, 100% 76%, 17% 78%, 0 100%, 0 83%, 0% 75%)
     }
     .progress-bar {
         color: snow;
